@@ -33,9 +33,23 @@
   * 後台
     * 擷取資料
     * 歸納資料
-    * 分析資料
+    * 分析資料
     * 製作圖表
 
-其中以**分析資料**及**製作圖表**最為困難，其中分工將於[此處](https://github.com/Andrew-Source/School-Science-Research/issues/2)討論。
+其中以**分析資料**及**製作圖表**最為困難，其中分工將於[此處](https://github.com/Andrew-Source/School-Science-Research/issues/2)討論病癒下章節統以講解。
+
+---
+
+## 工作分配
+
+目前的工作將分為下列幾種：
+
+  * 前台設計
+  * 分析辦法/圖表製作
+  * 後台製作
+
+其中各自工作所使用之語言已列於[此處](https://github.com/Andrew-Source/School-Science-Research/issues/1)，下方將進行更詳細解說。
+
+### 前台設計
 
 ---
