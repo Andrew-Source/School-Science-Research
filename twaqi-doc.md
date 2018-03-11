@@ -9,11 +9,11 @@ Thanks!
 
 *   PC installation
     *   Windows
-        *   [portable version](#Portable Version (Windows))
-        *   [installation version](#Installation Version (Windows))
+        *   [portable version](#Windows Portable Version)
+        *   [installation version](#Windows Installation Version)
     *   [Other OS](#Other OS)
 *   Hosting installation
-    *   [Have SSH access (Linux hosting)](#Have SSH access (Linux hosting))
+    *   [Have SSH access (Linux hosting)](#Linux hosting have SSH access)
     *   [No SSH access (for all kind of Windows and Linux or other OS hosting)](#No SSH access)
 *   File list
     *   Windows
@@ -27,7 +27,7 @@ Thanks!
 
 * * *
 
-# Portable Version (Windows)
+# Windows Portable Version 
 
 1.  To install you'll need to download the package zip ([32-bit](https://files.munucial.com/release/custom/tw-aqi-monitor/tw-aqi-data-monitor-win32-portable.zip), [64-bit](https://files.munucial.com/release/custom/tw-aqi-monitor/tw-aqi-data-monitor-win64-portable.zip)) then extract it
 2.  open the command prompt (by pressing **win+r** and type **cmd** then click **Enter**)
@@ -51,7 +51,7 @@ Thanks!
 
 * * *
 
-# Installation Version (Windows)
+# Windows Installation Version
 
 1.  Same download the zip and extract them first ([32-bit](https://files.munucial.com/release/custom/tw-aqi-monitor/tw-aqi-data-monitor-win32.zip), [64-bit](https://files.munucial.com/release/custom/tw-aqi-monitor/tw-aqi-data-monitor-win64.zip))
 2.  Then go to the **installer** folder
@@ -105,7 +105,7 @@ Thanks!
 
 * * *
 
-# Have SSH access (Linux hosting)
+# Linux hosting have SSH access
 
 1.  Download the All OS version ([here](https://files.munucial.com/release/custom/tw-aqi-monitor/tw-aqi-data-monitor.zip)) and extract it (we call the extracted folder **_main code folder_**)
 2.  Connect to the SSH (**THIS SOMETIMES REQUIRE ADVANCE SKILL, IF YOU HAVE ANY ISSUE, CONTACT ME AT [MAIL@MUNUCIAL.COM](mailto:MAIL@MUNUCIAL.COM)**
