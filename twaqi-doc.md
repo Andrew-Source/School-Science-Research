@@ -9,12 +9,12 @@ Thanks!
 
 *   PC installation
     *   Windows
-        *   [portable version](#win-portable)
-        *   [installation version](#win-install)
-    *   [Other OS](#other)
+        *   [portable version](#Portable Version (Windows))
+        *   [installation version](#Installation Version (Windows))
+    *   [Other OS](#Other OS)
 *   Hosting installation
-    *   [Have SSH access (Linux hosting)](#hosting-ssh)
-    *   [No SSH access (for all kind of Windows and Linux or other OS hosting)](#hosting-nossh)
+    *   [Have SSH access (Linux hosting)](#Have SSH access (Linux hosting))
+    *   [No SSH access (for all kind of Windows and Linux or other OS hosting)](#No SSH access)
 *   File list
     *   Windows
         *   32-bit
