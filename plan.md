@@ -23,4 +23,9 @@
   * 後台
     * 擷取資料
     * 歸納資料
+    * 分析資料
     * 製作圖表
+
+其中以**分析資料**及**製作圖表**最為困難，其中分工將於[此處](https://github.com/Andrew-Source/School-Science-Research/issues/2)討論。
+
+---
