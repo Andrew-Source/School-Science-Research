@@ -40,6 +40,38 @@
 
 其中各自工作所使用之語言已列於[此處](https://github.com/Andrew-Source/School-Science-Research/issues/1)，下方將進行更詳細解說。
 
+---
+
 ### 前台設計
+
+前台的製作較簡單，只需要用[Bootstrap](http://getbootstrap.com/)製作出簡單的排列並留位置以放置圖表數據。
+
+---
+
+### 分析辦法/圖表製作
+
+人總要持續創新，我們的計畫與別人不同處就是這部分。
+
+通常大家都顯示及時數據，做個簡單的表單而已。我們將作的除了優質、美觀的圖表(參見下部分之圖1)。我們還要用數學的**斜率**來進行**簡單的**後續空氣品質情況的預測。
+
+#### 圖表製作
+
+圖表的製作我們將用[ChartJS](http://www.chartjs.org/)來製作，之後將詳細講解如何製作，這邊先做示範
+
+[圖1](http://www.chartjs.org/samples/latest/scales/linear/min-max-suggested.html) (可用於當日不同時間之數值顯示)
+
+![img1](./img/demo1.jpg)
+
+---
+
+[圖2](http://www.chartjs.org/samples/latest/charts/line/point-styles.html) (可用於不同地區之數值顯示)
+
+![img2](./img/demo2.jpg)
+
+---
+
+[圖3](http://www.chartjs.org/samples/latest/charts/scatter/multi-axis.html) (用途未知)
+
+![img3](./img/demo3.jpg)
 
 ---
