@@ -1,5 +1,5 @@
 # WARNING:
-This is a clone version of [this document]() which is also written by *Andrew*, but since we've remove and edit some part, the document might have some exploit in it, if you encounter any error, read the original document first then contact *Andrew*.
+This is a clone version of [this document](https://ascxz.ml/munucial/custom/twaqi/shutting-down-twaqi/) which is also written by *Andrew*, but since we've remove and edit some part, the document might have some exploit in it, if you encounter any error, read the original document first then contact *Andrew*.
 
 Thanks!
 
