@@ -4,9 +4,9 @@
 
 ## 警告
 
-此網頁為[**科展/校內賽/計畫書**](https://github.com/Andrew-Source/School-Science-Research/blob/school/plan.md)的網頁版，任何更改、建議請至原檔案處進行更改，確認OK後再開啟一個新的issue。
-
-感謝！
+>此網頁為[**科展/校內賽/計畫書**](https://github.com/Andrew-Source/School-Science-Research/blob/school/plan.md)的網頁版，任何更改、建議請至原檔案處進行更改，確認OK後再開啟一個新的issue。
+> 
+>感謝！
 
 ---
 
