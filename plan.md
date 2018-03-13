@@ -90,6 +90,8 @@
 
 我們期望能在各個蹭戰中，依數值作漸層上色，如下圖。
 
+參照分層設色圖 ([來源](http://www.twword.com/wiki/%E5%9C%B0%E5%BD%A2%E8%A1%A8%E7%A4%BA%E6%B3%95))
+
 ![img4](./img/demo4.jpg)
 
 ---
