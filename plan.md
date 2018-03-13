@@ -103,6 +103,6 @@
  * 定時擷取資料
  * 分類資料
 
-目前已有範例程式，可與此處[下載](./files/tw-aqi-data-monitor.zip)並執行`node monitor.min.js`即可 (記得先安裝NodeJS)。詳細文件可於[此處](./twaqi-doc)查閱。
+目前已有範例程式，可與此處[下載](https://github.com/Andrew-Source/School-Science-Research/tree/school/twaqi)並執行`node monitor.min.js`即可 (記得先安裝NodeJS)。詳細文件可於[此處](./twaqi-doc)查閱。
 
 ---
