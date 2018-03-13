@@ -106,3 +106,9 @@
 目前已有範例程式，可與此處[下載](https://github.com/Andrew-Source/School-Science-Research/tree/school/twaqi)並執行`node monitor.min.js`即可 (記得先安裝NodeJS)。詳細文件可於[此處](./twaqi-doc)查閱。
 
 ---
+
+## 連接伺服器
+
+請參見[此說明書](http://andrewsource.usa.cc/School-Science-Research/connect)，謝謝～
+
+---
